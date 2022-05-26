@@ -108,7 +108,7 @@ async def status_message_f(client, message):  # weird code but 'This is the way'
             f"<b>├  🐱‍💻 CPU : {cpu}%</b>\n" \
             f"<b>├  🎮 RAM : {ram}%</b>\n" \
             f"<b>│</b>\n" \
-            f"<b>╰───「 🚸 TorrentLeechX 🚸 」</b>"
+            f"<b>╰───「 🚸 By TargetX25 🚸 」</b>"
         )
         if msg == "":
             msg = "🤷‍♂️ No Active, Queued or Paused TORRENTs"
