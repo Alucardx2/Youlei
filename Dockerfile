@@ -1,4 +1,4 @@
-FROM ghcr.io/Alucardx2/Youlei:latest
+FROM ghcr.io/alucardx2/youlei:latest
 
 COPY . .
 
